@@ -1,8 +1,7 @@
 public class Variable {
 	
 public static void main(String[] args) {
-
-	byte kolichestvoYader = 2;
+    byte kolichestvoYader = 2;
 	short pamyat = 4000;
 	int processor = 640000;
 	long versiya = 1909000000;
