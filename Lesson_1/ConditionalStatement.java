@@ -1,7 +1,7 @@
 public class ConditionalStatement{
 	public static void main(String[] args) {
-	int moiVozvrast = 36;
-	if(moiVozvrast > 20) {
+	int myAge = 36;
+	if(myAge > 20) {
          System.out.println("Я могу быть дедушкой");
 	} 
 	boolean iAmMale = true;
