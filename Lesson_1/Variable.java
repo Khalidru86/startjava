@@ -10,12 +10,12 @@ public static void main(String[] args) {
 	char intel = 87;
 	boolean windows = true;
 
-	System.out.println(kolichestvoYader);
-	System.out.println(pamyat);
+	System.out.println(numberOfCores);
+	System.out.println(memory);
 	System.out.println(processor);
-	System.out.println(versiya);
-	System.out.println(vypusk);
-	System.out.println(sborka);
+	System.out.println(version);
+	System.out.println(release);
+	System.out.println(assembly);
 	System.out.println(intel);
 	System.out.println(windows);
     }
