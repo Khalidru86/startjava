@@ -10,9 +10,9 @@ public class ConditionalStatement {
           System.out.println("Ты можешь быть папой");
       }
 
-      boolean isNotMale = !false;
-      if(isNotMale = !false) {
-          System.out.println("Ты не можешь быть мамой");
+      boolean isNotMale = true;
+      if(isNotMale = true) {
+          System.out.println(!false +" Ты не можешь быть мамой");
       }
 
       double isHeight = 1.72;
