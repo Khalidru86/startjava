@@ -1,7 +1,7 @@
 public class ConditionalStatement {
     public static void main(String[] args) {
-      int Age = 50;
-      if(Age > 20) {
+      int age = 50;
+      if(age > 20) {
          System.out.println("Ты можешь быть дедушкой");
       } 
 
@@ -13,17 +13,17 @@ public class ConditionalStatement {
           System.out.println("Ты не можешь быть папой");
       }
 
-      double isHeight = 1.72;
-      if(isHeight > 1.80) {
+      double Height = 1.72;
+      if(Height > 1.80) {
           System.out.println("Ты высокий");
       } else {
           System.out.println("Ты среднего роста");
       }
 
-      char firstNameLetterD = 'D';
-      if(firstNameLetterD == 'M') {
+      char firstNameLetter = 'D';
+      if(firstNameLetter == 'M') {
           System.out.println("Тебя зовут Миша");
-      } else if(firstNameLetterD == 'I') {
+      } else if(firstNameLetter == 'I') {
           System.out.println("Тебя зовут Илья");
       } else {
         System.out.println("Тебя зовут Даниил");
