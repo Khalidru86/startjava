@@ -10,9 +10,15 @@ public class Cycle {
 	      i-=2;
 	   }
 
-	   // int i = 10;
+	   // int i = 9;
 	   // int result = 1;
 	   // do {
-	   // 	   result = result + i;
-	}
-}	
+	   //    result = result + i;
+	   //    i+=2;
+	   //    System.out.println(i + " ");
+	   // } while(i <= 18);
+	   // System.out.println("11 + 13 + 15 + 17 + 19 = " + result);
+    }
+}
+
+
