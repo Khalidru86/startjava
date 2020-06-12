@@ -1,6 +1,5 @@
 public class Variable {
-	
-public static void main(String[] args) {
+  public static void main(String[] args) {
     byte numberOfCores = 2;
     short memory = 4000;
     int processor = 640000;
@@ -18,5 +17,5 @@ public static void main(String[] args) {
     System.out.println(assembly);
     System.out.println(intel);
     System.out.println(windows);
-    }
+  }
 }
