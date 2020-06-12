@@ -6,8 +6,8 @@ public class Cycle {
 
     int i = 6;
     while (i >= -6) {
-      System.out.println(i + " ");
-      i-= 2;
+      System.out.print(i + " ");
+      i -= 2;
     }
 
     // int i = 9;
