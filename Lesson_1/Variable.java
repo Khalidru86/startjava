@@ -1,6 +1,6 @@
 public class Variable {
   public static void main(String[] args) {
-    byte numberOfCores = 2;
+	byte numberOfCores = 2;
     short memory = 4000;
     int processor = 640000;
     long version = 1909000000;
